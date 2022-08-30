@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "West Park",
+    "category": "Parks",
+    "rating": 4,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/d4/ea/b0/caption.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mitsui outlet park",
+    "category": "Shopping Mall",
+    "rating": 4,
+    "image": "https://tiptoeingworld.com/wp-content/uploads/2016/12/Mitsui-Outlet-Park-Makuhari.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fujiko F Fujio Museum",
+    "category": "Museums",
+    "rating": 4.5,
+    "image": "https://static.japanwalker.travel/images/5d4d292d5513c.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kegon Falls",
+    "category": "Waterfall",
+    "rating": 4,
+    "image": "https://ak.jogurucdn.com/media/image/p25/place-2017-01-5-11-15bca33a0167ff4e9e2d3bfcff30550c.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Senso-ji Temple",
+    "category": "Pagoda",
+    "rating": 4.5,
+    "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/sensoji-temple-iStock-1083328636-770x514.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tokyo Tower",
+    "category": "Architechtured Building",
+    "rating": 4,
+    "image": "https://www.japanrailpass.com.au/wp-content/uploads/2016/09/1000x669xTokyo-Tower-800x535.jpg.pagespeed.ic.WpSnYNSYSV.webp"
+  }
+]
